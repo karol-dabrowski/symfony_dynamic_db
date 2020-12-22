@@ -1,5 +1,5 @@
 # Dynamic database connection - Symfony & Doctrine
-
+The repository contains source code used in [this blog post](https://karoldabrowski.com/blog/dynamic-database-connection-based-on-request-symfony-and-doctrine/).
 
 ## Setup
 ```bash
